@@ -38,4 +38,3 @@ end
 def play(board)
   puts "Where do you want to go? 1-9"
 end
-
